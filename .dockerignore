@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements.txt
+!rag.py
+!api.py
+!eval_lab.py
+!evaluation.json
